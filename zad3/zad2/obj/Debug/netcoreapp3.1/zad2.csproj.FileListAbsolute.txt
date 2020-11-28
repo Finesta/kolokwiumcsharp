@@ -1,0 +1,13 @@
+C:\Users\Łukasz\Desktop\zad2\zad2\obj\Debug\netcoreapp3.1\zad2.csprojAssemblyReference.cache
+C:\Users\Łukasz\Desktop\zad2\zad2\obj\Debug\netcoreapp3.1\zad2.AssemblyInfoInputs.cache
+C:\Users\Łukasz\Desktop\zad2\zad2\obj\Debug\netcoreapp3.1\zad2.AssemblyInfo.cs
+C:\Users\Łukasz\Desktop\zad2\zad2\obj\Debug\netcoreapp3.1\zad2.csproj.CoreCompileInputs.cache
+C:\Users\Łukasz\Desktop\zad2\zad2\bin\Debug\netcoreapp3.1\zad2.exe
+C:\Users\Łukasz\Desktop\zad2\zad2\bin\Debug\netcoreapp3.1\zad2.deps.json
+C:\Users\Łukasz\Desktop\zad2\zad2\bin\Debug\netcoreapp3.1\zad2.runtimeconfig.json
+C:\Users\Łukasz\Desktop\zad2\zad2\bin\Debug\netcoreapp3.1\zad2.runtimeconfig.dev.json
+C:\Users\Łukasz\Desktop\zad2\zad2\bin\Debug\netcoreapp3.1\zad2.dll
+C:\Users\Łukasz\Desktop\zad2\zad2\bin\Debug\netcoreapp3.1\zad2.pdb
+C:\Users\Łukasz\Desktop\zad2\zad2\obj\Debug\netcoreapp3.1\zad2.dll
+C:\Users\Łukasz\Desktop\zad2\zad2\obj\Debug\netcoreapp3.1\zad2.pdb
+C:\Users\Łukasz\Desktop\zad2\zad2\obj\Debug\netcoreapp3.1\zad2.genruntimeconfig.cache
